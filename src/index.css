@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.test-heading {
+  @apply text-5xl text-red-500;
+}
